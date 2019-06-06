@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b17716d8.chunk.css",
+    "main.js": "/static/js/main.9540d2fb.chunk.js",
+    "main.js.map": "/static/js/main.9540d2fb.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.e01a53bc.chunk.js": "/static/js/2.e01a53bc.chunk.js",
+    "static/js/2.e01a53bc.chunk.js.map": "/static/js/2.e01a53bc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9a82dc2cb2ff5cbb694757000d45c5be.js": "/precache-manifest.9a82dc2cb2ff5cbb694757000d45c5be.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b17716d8.chunk.css.map": "/static/css/main.b17716d8.chunk.css.map",
+    "static/media/AEON-bg.svg": "/static/media/AEON-bg.70adb4c4.svg",
+    "static/media/Aeon-logo.svg": "/static/media/Aeon-logo.0830e785.svg",
+    "static/media/Aeon_Ver-2.png": "/static/media/Aeon_Ver-2.cb295d94.png",
+    "static/media/Facebook.svg": "/static/media/Facebook.da4c156c.svg",
+    "static/media/about-foto.svg": "/static/media/about-foto.92685d93.svg",
+    "static/media/Shop.scss": "/static/media/adult-attractive-cap-2146720.dc4db82f.png",
+    "static/media/google-play.svg": "/static/media/google-play.63c19da8.svg",
+    "static/media/Home.scss": "/static/media/sing.55ce062b.svg",
+    "static/media/heart.svg": "/static/media/heart.7534d196.svg",
+    "static/media/instagram.svg": "/static/media/instagram.a61694d6.svg",
+    "static/media/instagram2.svg": "/static/media/instagram2.594b0087.svg",
+    "static/media/melody.svg": "/static/media/melody.e1887d49.svg",
+    "static/media/play-btn.svg": "/static/media/play-btn.1b3e62d8.svg",
+    "static/media/telegram.svg": "/static/media/telegram.305bd6a8.svg",
+    "static/media/twitter.svg": "/static/media/twitter.694b1d68.svg"
+  }
+}

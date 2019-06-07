@@ -1,0 +1,48 @@
+@import '../../Style/variables.scss';
+
+.section-footer {
+	position: relative;
+	margin: 0px 4% 4% 4% ;
+	&-wrapper {
+		display: flex;
+	}
+	&-social {
+		&-list {
+			margin: 0;
+			padding: 0;
+			margin-right: 60px;
+			list-style-type: none;
+			li {
+				margin-bottom: 18px;
+				img {
+					overflow: hidden;
+					transition-duration: 0.8s;
+					transition-property: transform;
+				}
+			}
+		}
+	}
+	&-author {
+		width: 100%;
+		display: flex;
+		align-self: flex-end;
+		justify-content: space-between;
+		&-create {
+			display: flex;
+			&-p {
+				margin: 0;
+				margin-right: 5px;
+			}
+			&-link {
+				margin-left: 5px;
+			}
+		}
+		&-owner {
+			display: flex;
+			&-p:first-child{
+				margin-right: 19px;
+			} 
+		}
+
+	}
+}

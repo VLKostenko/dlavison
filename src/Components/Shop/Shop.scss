@@ -1,0 +1,75 @@
+@import '../../Style/variables.scss';
+
+
+.section-shop {
+	height: 100vh;
+	padding: 20px;
+	background-image: radial-gradient(1425px 1425px at 50% 50%, #8911f2 0%, #002b63 100%);
+	&-first {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+
+		height: 100%;
+
+		box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+		border-radius: 5px;
+		// background-color: #ffffff;
+		// opacity: 0.1;
+
+		background-size: 100%;
+		background-image: url('../../Assets/icons/adult-attractive-cap-2146720.png');
+		background-repeat: no-repeat;
+		background-position: center;
+		&-about {
+			display: flex;
+			align-self: center;
+			flex-direction: column;
+			.h4 {
+				max-width: 55%;
+				text-align: center;
+				align-self: center;
+			}
+			p {
+				align-self: flex-end;
+			}
+		}
+		.album-wrapper {
+			align-self: center;
+			.album-aeon {
+				display: flex;
+				&-about {
+					.span {
+						font-size: 100px;
+						text-align: right;
+						color: $text-color-white;
+						display: block;
+					}
+					.h1 {
+						margin: 0;
+						font-size: 100px;
+						color: #ff0d96;
+					}
+				}
+				&-logo {
+					img {
+						display: block;
+						width: 100%;
+						height: 80%;
+					}
+					&-btn {
+						width: 145px;
+						height: 35px;
+
+						border: none;
+						color: $text-color-white;
+						box-shadow: 0 10px 40px rgba(94, 0, 175, 0.2);
+						border-radius: 109px;
+						background-color: $btn-album;
+					}
+				}
+			}
+		}
+	}
+	
+}

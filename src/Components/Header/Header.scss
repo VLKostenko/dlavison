@@ -1,0 +1,18 @@
+.section-header {
+	display: flex;
+	position: relative;
+	padding-top: 3%;
+	&-logo {
+		margin-left: 100px;
+		margin-right: 60px;
+	}
+	&-nav {
+		width: 100%;
+
+		display: flex;
+		list-style-type: none;
+		&-link {
+			margin-left: 3em;
+		}
+	}
+}

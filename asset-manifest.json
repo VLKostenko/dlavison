@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/dlavison/static/css/main.02e99e30.chunk.css",
+    "main.js": "/dlavison/static/js/main.352baeb1.chunk.js",
+    "main.js.map": "/dlavison/static/js/main.352baeb1.chunk.js.map",
+    "runtime~main.js": "/dlavison/static/js/runtime~main.43b68f07.js",
+    "runtime~main.js.map": "/dlavison/static/js/runtime~main.43b68f07.js.map",
+    "static/js/2.97ec8933.chunk.js": "/dlavison/static/js/2.97ec8933.chunk.js",
+    "static/js/2.97ec8933.chunk.js.map": "/dlavison/static/js/2.97ec8933.chunk.js.map",
+    "index.html": "/dlavison/index.html",
+    "precache-manifest.2763acdf4c0ad2828dc6d56c191be07d.js": "/dlavison/precache-manifest.2763acdf4c0ad2828dc6d56c191be07d.js",
+    "service-worker.js": "/dlavison/service-worker.js",
+    "static/css/main.02e99e30.chunk.css.map": "/dlavison/static/css/main.02e99e30.chunk.css.map",
+    "static/media/AEON-bg.svg": "/dlavison/static/media/AEON-bg.70adb4c4.svg",
+    "static/media/Aeon-logo.svg": "/dlavison/static/media/Aeon-logo.0830e785.svg",
+    "static/media/Aeon_Ver-2.png": "/dlavison/static/media/Aeon_Ver-2.cb295d94.png",
+    "static/media/Facebook.svg": "/dlavison/static/media/Facebook.da4c156c.svg",
+    "static/media/about-foto.svg": "/dlavison/static/media/about-foto.92685d93.svg",
+    "static/media/Shop.scss": "/dlavison/static/media/adult-attractive-cap-2146720.dc4db82f.png",
+    "static/media/google-play.svg": "/dlavison/static/media/google-play.63c19da8.svg",
+    "static/media/Home.scss": "/dlavison/static/media/sing.55ce062b.svg",
+    "static/media/heart.svg": "/dlavison/static/media/heart.7534d196.svg",
+    "static/media/instagram.svg": "/dlavison/static/media/instagram.a61694d6.svg",
+    "static/media/instagram2.svg": "/dlavison/static/media/instagram2.594b0087.svg",
+    "static/media/melody.svg": "/dlavison/static/media/melody.e1887d49.svg",
+    "static/media/play-btn.svg": "/dlavison/static/media/play-btn.1b3e62d8.svg",
+    "static/media/telegram.svg": "/dlavison/static/media/telegram.305bd6a8.svg",
+    "static/media/twitter.svg": "/dlavison/static/media/twitter.694b1d68.svg"
+  }
+}
